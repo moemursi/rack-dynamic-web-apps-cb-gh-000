@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Translate a command line Ruby app to a dynamic web app
-2. Use the `#write` method in a `Rack::Response` object to make a dynamic web app in Rack
+2. Use the `#write` method in a `Rack::Response` object to make a dynamic web app in kRack
 
 ## Creating a Dynamic Web App
 
